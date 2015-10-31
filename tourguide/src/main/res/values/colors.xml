@@ -205,7 +205,7 @@
     <color name="holo_green_dark">#669900</color>
     <color name="holo_purple_dark">#9933cc</color>
     <color name="holo_red_dark">#cc0000</color>
-    //Color Swatches provided by http://designmodo.github.io/Flat-UI/
+    <!-- Color Swatches provided by http://designmodo.github.io/Flat-UI/ -->
     <color name="color_turquoise">#1abc9c</color>
     <color name="color_green_sea">#16a085</color>
     <color name="color_emerald">#2ecc71</color>
